@@ -1,8 +1,8 @@
 
-*Pima Indian Diabetes Classification
+*****Pima Indian Diabetes Classification*****
 
 
-**Background information
+***Background information
 
 
 What is diabetes?
